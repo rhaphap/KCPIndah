@@ -1,0 +1,5 @@
+#signInButton, #signUpButton {
+    -fx-background-color: #009688;
+    -fx-text-fill: white;
+    -jfx-button-type: RAISED;
+}
